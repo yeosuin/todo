@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site":"suin-todolist",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
